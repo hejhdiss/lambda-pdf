@@ -37,8 +37,8 @@ If you learn with curiosity and keep asking "why?" and "what else?", you'll disc
 
 - **Absolute beginners** learning Python
 - Anyone who finds lambda functions confusing
-- Developers who want to master functional programming basics
-- Students looking to understand advanced Python concepts
+- Developers who want to learn functional programming basics
+- Students looking to understand and learn advanced Python concepts
 
 ## Important Note ⚠️
 
@@ -73,16 +73,18 @@ If you learn with curiosity and keep asking "why?" and "what else?", you'll disc
 
 ## What You'll Gain
 
-By completing these exercises, you'll:
+What you gain from these exercises has high influence based on your curiosity, interest, and how you approach learning. The more you engage with the material and explore beyond the exercises, the more you'll learn.
 
-- Understand lambda functions and when to use them
-- Learn functional programming patterns in Python
-- Master list and dictionary comprehensions
-- Understand closures and variable scoping
-- Learn to compose and pipeline functions
-- Discover new Python operators and techniques
-- Build problem-solving skills with real scenarios
-- Gain confidence in writing cleaner, more pythonic code
+By working through these exercises, you'll:
+
+- Learn about lambda functions
+- Learn functional programming patterns
+- Learn list and dictionary comprehensions
+- Learn about closures and variable scoping
+- Learn function composition and pipelines
+- Discover Python operators and techniques
+
+How much you gain depends on your curiosity and how you learn.
 
 ## Remember
 
@@ -124,9 +126,3 @@ lambda-pdf/
 **Happy Learning!** 🐍
 
 **Start your journey**: Open `lambda.pdf` and begin with Exercise 1!
-
-Even after finishing all exercises here, you'll still be a beginner - and that's perfectly fine! Continue learning, keep practicing, and gradually build your Python skills.
-
----
-
-**Happy Learning!** 🐍
